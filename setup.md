@@ -13,3 +13,5 @@
 3. activate your virtual environment
     1. conda activate ./env
     2. pip list
+
+4. tox      (install the python and its dependies)
